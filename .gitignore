@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# C++
+*.dSYM/
+build/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+*.egg-info/
+dist/
+.pytest_cache/
+
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+
+# VSCode
+.vscode/
+
+
+# Audio files
+*.wav
+*.mp3
+*.aiff
+
+
+# Task files
+*.task
+
+*.ttf
